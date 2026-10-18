@@ -71,8 +71,8 @@ To change a permission later: System Settings → Privacy & Security.
 ## Immich versions
 
 Ferry works with Immich v2 and v3. Every release is tested against real Immich servers, currently
-v2.5.6 through v3.3.3, and a daily job tests each new Immich release as it comes out, fixes Ferry
-if it broke, and ships the fix.
+v2.5.6 through v3.3.3, and every Sunday a job tests any new Immich release, fixes Ferry if it
+broke, and ships the fix.
 
 ## Source code
 
